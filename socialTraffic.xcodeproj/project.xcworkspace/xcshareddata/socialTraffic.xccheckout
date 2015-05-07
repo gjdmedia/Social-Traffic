@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>94FC5586-E5D0-4E92-A7F9-AD6D5E14FA95</string>
+	<key>IDESourceControlProjectName</key>
+	<string>socialTraffic</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>48E0993BAD7F1E7851AF302B200816C887F8420A</key>
+		<string>https://github.com/gjdmedia/socialTraffic.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>socialTraffic.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>48E0993BAD7F1E7851AF302B200816C887F8420A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/gjdmedia/socialTraffic.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>48E0993BAD7F1E7851AF302B200816C887F8420A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>48E0993BAD7F1E7851AF302B200816C887F8420A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>socialTraffic</string>
+		</dict>
+	</array>
+</dict>
+</plist>
